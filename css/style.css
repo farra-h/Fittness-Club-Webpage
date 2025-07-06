@@ -19,6 +19,7 @@ body *{
     background-image: url(../imgs/shutterstock_166601417.jpg);
     background-size: cover;
     background-color: rgb(0 0 0 / 40%);
+    background-attachment: fixed;
     position: relative;
 }
 .start .overlay {
@@ -524,7 +525,7 @@ body *{
     color: white;
     font-size: 25px;
 }
-.footer-2 .f2-container a{
+a {
     text-decoration: none;
 }
 /*  End of Ninth section  */
